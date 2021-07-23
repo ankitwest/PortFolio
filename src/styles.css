@@ -129,9 +129,15 @@ p {
 
 .project-card {
     width: 300px;
-    height: 500px;
+    height: 550px;
     box-shadow: 5px 5px 20px rgb(197, 195, 195);
     margin: 10px;
+}
+
+.project-image {
+    margin-top: 30px;
+    width: 250px;
+    border-radius: 125px;
 }
 
 .project-container {
@@ -144,12 +150,6 @@ p {
         display: flex;
         flex-wrap: wrap;
     }
-}
-
-.project-image {
-    margin-top: 25px;
-    width: 250px;
-    border-radius: 125px;
 }
 
 hr {
